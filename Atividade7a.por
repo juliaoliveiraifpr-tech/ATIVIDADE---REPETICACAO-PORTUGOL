@@ -8,7 +8,7 @@ programa
 
           escreva("0 \n 1 \n ")
 
-          para(inteiro i=0; i < 8; i++){
+          para(inteiro i=0; i < 14; i++){
 
              proximo = anterior + atual 
 
